@@ -42,5 +42,5 @@ Users should be able to:
 ## Author
 
 - Website - [Luigui PJ](https://github.com/LDevJP)
-- Frontend Mentor - [@Luigui PJ](https://www.frontendmentor.io/profile/LDevJP)
+- Frontend Mentor - [Luigui PJ](https://www.frontendmentor.io/profile/LDevJP)
 
